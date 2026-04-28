@@ -22,3 +22,4 @@ for num in lista:
 
 print(contagem)
         
+# %%
