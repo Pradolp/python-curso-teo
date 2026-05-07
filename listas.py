@@ -1,6 +1,5 @@
 # %%
 idades = [12, 15, 25, 35, 36, 54]
-
 for i in idades:
     print(i)
 # %%
